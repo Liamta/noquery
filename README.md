@@ -1,2 +1,2 @@
-# noquery
-NoQuery. A lightweight dom traversal/manipulation library to replace jQuery.
+# NoQuery
+A lightweight dom traversal/manipulation library to replace jQuery.
